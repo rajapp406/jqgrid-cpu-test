@@ -1,6 +1,6 @@
 import { Component, ViewEncapsulation } from '@angular/core';
 
-import { generatedata } from '../assets/generatedata';
+import { generatedata } from '../../assets/generatedata';
 
 @Component({
     selector: 'app-root',
